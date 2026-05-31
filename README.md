@@ -1,5 +1,7 @@
 # Server Performance Stats Utility
 
+> **Project Challenge:** This script was built as part of the backend automation path. You can find the full project requirements and details on the official [Project Page URL](https://roadmap.sh/projects/server-stats).
+
 A modular, lightweight Bash script to analyze and display core Linux server performance metrics, optimized to run seamlessly across Ubuntu environments.
 
 ## Features
